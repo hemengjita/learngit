@@ -11,3 +11,6 @@ Git is free softwarGit is a distributed version control system.
 Git is free software.Git is free software.
 index
 
+
+test no ff merge
+
